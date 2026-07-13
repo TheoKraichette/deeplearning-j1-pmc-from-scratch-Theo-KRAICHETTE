@@ -19,5 +19,5 @@ Tout est dans le notebook `pmc_from_scratch.ipynb`, une section par phase.
 - [x] Phase 1 : neurone unique, forward pass et loss BCE
 - [x] Phase 2 : descente de gradient, courbe de loss
 - [x] Phase 3 : XOR avec couche cachée, frontière de décision
-- [ ] Phase 4 : spirale 2D
+- [x] Phase 4 : spirale 2D, frontière non-linéaire, underfitting vs capacité
 - [ ] Phase 5 : Keras sur MNIST
