@@ -25,3 +25,4 @@ Tout est dans le notebook `pmc_from_scratch.ipynb`, une section par phase.
 - [x] Phase 7 : variation du learning rate, sweet spot identifié
 - [x] Phase 8 : pipeline complet numpy + Keras sur Breast Cancer
 - [x] Phase 9 (bonus) : ablation study profondeur x largeur sur MNIST
+- [x] Phase 10 (bonus) : benchmark numpy vs Keras, analyse du coût réel
