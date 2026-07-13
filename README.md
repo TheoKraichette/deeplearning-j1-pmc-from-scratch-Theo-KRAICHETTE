@@ -21,3 +21,4 @@ Tout est dans le notebook `pmc_from_scratch.ipynb`, une section par phase.
 - [x] Phase 3 : XOR avec couche cachée, frontière de décision
 - [x] Phase 4 : spirale 2D, frontière non-linéaire, underfitting vs capacité
 - [x] Phase 5 : Keras sur MNIST, 97.5% test accuracy
+- [x] Phase 6 : comparaison des activations (sigmoid, tanh, relu)
