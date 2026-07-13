@@ -14,8 +14,10 @@ Puis ouvrir http://localhost:8888
 
 ## Phases
 
-- [x] Phase 1 : neurone unique, forward pass et loss BCE (`phase1_neurone.ipynb`)
-- [ ] Phase 2 : descente de gradient
+Tout est dans le notebook `pmc_from_scratch.ipynb`, une section par phase.
+
+- [x] Phase 1 : neurone unique, forward pass et loss BCE
+- [x] Phase 2 : descente de gradient, courbe de loss
 - [ ] Phase 3 : XOR avec couche cachée
 - [ ] Phase 4 : spirale 2D
 - [ ] Phase 5 : Keras sur MNIST
